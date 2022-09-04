@@ -1,0 +1,7 @@
+C:\Users\Manuel\source\repos\RESTO-35-C\RESTO-35-C\bin\Debug\RESTO-35-C.exe.config
+C:\Users\Manuel\source\repos\RESTO-35-C\RESTO-35-C\bin\Debug\RESTO-35-C.exe
+C:\Users\Manuel\source\repos\RESTO-35-C\RESTO-35-C\bin\Debug\RESTO-35-C.pdb
+C:\Users\Manuel\source\repos\RESTO-35-C\RESTO-35-C\obj\Debug\RESTO-35-C.csproj.AssemblyReference.cache
+C:\Users\Manuel\source\repos\RESTO-35-C\RESTO-35-C\obj\Debug\RESTO-35-C.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\source\repos\RESTO-35-C\RESTO-35-C\obj\Debug\RESTO-35-C.exe
+C:\Users\Manuel\source\repos\RESTO-35-C\RESTO-35-C\obj\Debug\RESTO-35-C.pdb
